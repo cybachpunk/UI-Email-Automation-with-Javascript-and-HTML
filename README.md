@@ -2,7 +2,7 @@
 
 This repository contains a Google Apps Script solution designed to automate the process of sending customized email notifications to users about their non-compliant devices. The script reads dynamic device and user data from a Google Sheet coming from a centralized location (think Silver table) with many sources, consolidates all devices belonging to a single user, and sends one concise email per user using a dynamic HTML template. Knowledge domains include HTML, Javascript, and some loop iteration knowledge.
 
-The script was designed with IT and Security teams in mind for managing endpoint compliance and notifying users to enroll their devices in management systems like JAMF, Microsoft Intune, or Google MDM. It could be adapted to reach any group of users for many purposes, making it highly valuable in an organization looking to reduce reliance on external mail merge subscriptions.
+This script was designed with IT and Security teams in mind for managing endpoint compliance and notifying users to enroll their devices in management systems like JAMF, Microsoft Intune, or Google MDM. It could be adapted to reach any group of users for many purposes, making it highly valuable in an organization looking to reduce reliance on external mail merge subscriptions. Current script branding is Netflix and should be adapted.
 
 ## Features
 
