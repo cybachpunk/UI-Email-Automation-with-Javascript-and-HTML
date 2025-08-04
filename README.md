@@ -1,4 +1,4 @@
-# UI-Email-Automation-with-Javascript-and-HTML
+# UI Email Automation with Javascript and HTML
 
 This repository contains a Google Apps Script solution designed to automate the process of sending customized email notifications to users about their non-compliant devices. The script reads dynamic device and user data from a Google Sheet coming from a centralized location (think Silver table) with many sources, consolidates all devices belonging to a single user, and sends one concise email per user using a dynamic HTML template. Knowledge domains include HTML, Javascript, and some loop iteration knowledge.
 
